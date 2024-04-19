@@ -1,0 +1,9 @@
+h1{
+	margin-top: 20px; /*上部マージン*/
+	margin-bottom: 40px; /*下部マージン*/
+}
+
+p{
+	color: #ff0000; /*文字色*/
+	font-size: 24px; /*フォントサイズ*/
+}
